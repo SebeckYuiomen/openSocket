@@ -1,0 +1,16 @@
+{
+  "name": "opensocket",
+  "version": "1.0.0",
+  "description": "Open-source radiolike chat service which doesn't store messages.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "socket.io": "^4.8.1"
+  }
+}
