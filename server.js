@@ -34,7 +34,7 @@ app.get('/', (req, res) => {
 });
 
 // Start listening for traffic
-mainServer.listen(3000, () => {
-  console.log('Server running on port 3000');
+mainServer.listen(80, () => {
+  console.log('Server running on port 80');
 });
 
